@@ -4,4 +4,4 @@
 
 - 🎮 I'm working as Automation QA Engineer
 - ⚙️ I use: .js, .py, sql, .cy.js, .playwright.test.js, selenium_test.py, .css, .html(.xml), .pman(.json), .yml(.yaml)
-- 🌱 Currently learning Docker
+- 🌱 Currently learning DevOps tools
